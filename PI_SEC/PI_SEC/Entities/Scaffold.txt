@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -f "Server=localhost;Database=PI_SEC;Encrypt=false;Trusted_Connection=False;User ID=sa;Password=12345678;" Microsoft.EntityFrameworkCore.SqlServer  -OutputDir "Entities" -Schema "dbo"
