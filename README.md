@@ -13,6 +13,8 @@ run script file "CreateDBandTableUser.sql"
 
 4. Install .Net core 6.0
 
+5. Project is in the folder PI_SEC/PI_SEC.sln and develop with Microsoft Visual Studio Community 2022 
+
 if I have more times will be add those below
 1. JWT for authentication and authorization.
 2. Jenkins for deploying the branch after commit to the Server.
